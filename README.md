@@ -1,2 +1,2 @@
 # Covid-19-in-India-Analysis-Dashboard----Tableau
- In this visualization includes 28 states and 8 union territories.
+Total Death by Status - In this visualization includes 28 states and 8 union territories. Doses Administrated by Vaccine - From the visualization, we can see that the "CoviShield" has been most administrated by the vaccine. Age Group Details - The given visualization represents the distribution of COVID-19 cases by age group. ICMRT Testing Labs in Each state - The visualization represents the count of labs for COVID-19 testing in various Indian states and union territories. Statewise Testing Details - The visualization indicates the number of samples that were tested and the number of those samples that come out positive and negative for some measure
